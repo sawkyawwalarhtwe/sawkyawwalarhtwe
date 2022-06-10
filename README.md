@@ -2,4 +2,4 @@
 - 👀 I’m interested in software and web development
 - 🌱 I’m currently learning flutter framework
 - 💞️ I’m looking to collaborate on prototype project to imporve collabrators' skills
-- 📫 How to reach me via facebook https://www.facebook.com/kyawwalar.htwe and via email sakyawwalarhtwe@gmail.com
+- 📫 You can reach me via facebook https://www.facebook.com/kyawwalar.htwe and via email sakyawwalarhtwe@gmail.com
