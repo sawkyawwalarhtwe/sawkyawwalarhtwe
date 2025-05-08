@@ -1,25 +1,51 @@
-# Hello
+# 👋 Hello! I'm Tr. Saw Kyaw Walar Htwe
 
-### 👋 About Me
-I'm a backend and IoT developer with expertise in modern technologies like Node.js, MQTT, and IoT integrations (ESP8266/ESP32). My projects reflect a passion for real-time communication and secure, scalable solutions.
-
-### 🔧 Skills
-- **Backend**: Node.js, Express.js, Django, TypeScript, Nest.js, PHP, Laravel
-- **Database**: MongoDB, MySQL, PostgreSQL, Redis
-- **IoT**: ESP8266/ESP32, MQTT, SSL/TLS
-- **Frontend**: React, Vue.js
-- **Tools**: Docker, AWS, Git, CI/CD
-
-### 📂 Notable Projects
-1. **MQTT with ESP8266/ESP32**: Real-time IoT data communication using MQTT and Node.js with secure TLS.
-   [Link to Project](https://github.com/sawkyawwalarhtwe/MQTT-with-ESP8266-ESP32)
-
-2. **Rest API with TypeScript and MongoDB**: A scalable REST API setup using TypeScript, Express.js, and MongoDB.
-   [Link to Project](https://github.com/sawkyawwalarhtwe/Rest-API-TypeScript)
-
-### 🚀 How to Contribute
-Feel free to explore my repositories and open issues or submit pull requests if you find ways to improve the code or add new features. Contributions are always welcome!
+Welcome to my GitHub profile!  
+I'm a passionate educator and full-stack developer from Myanmar 🇲🇲, intertwining the realms of **technology, teaching, and innovation**.
 
 ---
 
-Let’s collaborate and build awesome tech together! 😄
+## 👨‍🏫 About Me
+
+- 📍 ICT Teacher | IGCSE & Primary
+- 💻 Developer | Specializing in **IoT**, **IIoT**, and **Web Development**
+- 🔐 Advocate for secure systems using **MQTT**, **SSL/TLS**, and **AWS**
+- 🎯 Building solutions with **React**, **Node.js**, **Python (FastAPI)**, **Django**, and **Flutter**
+- 🤖 Robotics & AI Enthusiast
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**  
+`Python` `JavaScript` `TypeScript` `Java` `C++` `PHP`
+
+**Frontend**  
+`React` `Vue` `Next.js` `Tailwind CSS` `Bootstrap` `MUI` `Figma`
+
+**Backend**  
+`Node.js` `Express` `Nest.js` `Django` `FastAPI` `Laravel`
+
+**Databases**  
+`MongoDB` `PostgreSQL` `MySQL` `Redis`
+
+**Other Technologies**  
+`MQTT` `WebSocket` `Docker` `AWS` `Git` `Arduino` `PLC` `SCADA`
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sawkyawwalarhtwe&show_icons=true&theme=github_dark)
+
+---
+
+## 📫 Connect With Me
+
+- 🌍 Website: *(optional if you have one)*
+- 📧 Email: *(optional if you want to include one)*
+- 📷 Instagram: *(optional)*
+- 💼 LinkedIn: *(optional)*
+
+Thanks for stopping by! 🚀  
+*“Empowering minds through code and creativity.”*
