@@ -39,6 +39,10 @@ I'm a passionate educator and full-stack developer from Myanmar 🇲🇲 current
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sawkyawwalarhtwe&show_icons=true&theme=github_dark)
 
 ---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sawkyawwalarhtwe&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com/?user=sawkyawwalarhtwe&theme=dark)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sawkyawwalarhtwe&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ## 📫 Connect With Me
 
