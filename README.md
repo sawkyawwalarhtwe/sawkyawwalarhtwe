@@ -1,7 +1,7 @@
 # 👋 Hello! I'm Tr. Saw Kyaw Walar Htwe
 
 Welcome to my GitHub profile!  
-I'm a passionate educator and full-stack developer from Myanmar 🇲🇲, intertwining the realms of **technology, teaching, and innovation**.
+I'm a passionate educator and full-stack developer from Myanmar 🇲🇲 currently reside in Bangkok, intertwining the realms of **technology, teaching, and innovation**.
 
 ---
 
